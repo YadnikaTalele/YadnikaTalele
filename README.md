@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YadnikaTalele
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning forntend developing.
 - 💞️ I’m looking to collaborate on Web desiging projects
 - 📫 How to reach me www.linkedin.com/in/yadnikatalele
 
